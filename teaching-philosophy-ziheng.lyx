@@ -1,0 +1,291 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement H
+\paperfontsize default
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Teaching Philosophy
+\end_layout
+
+\begin_layout Author
+Ziheng Chen
+\end_layout
+
+\begin_layout Section*
+Draft
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Enumerate
+Conceptualization of learning
+\begin_inset Newline newline
+\end_inset
+
+Ask yourself such questions as “What do we mean by learning?” and “What
+ happens in a learning situation?” Think of your answers to these questions
+ based on your personal experience.
+ Chism points out that some teachers have tried to express and explain their
+ understanding of learning through the use of metaphor, because drawing
+ comparisons with known entities can stimulate thinking, whether or not
+ the metaphor is actually used in the statement.
+ On the other hand, most instructors tend to take a more direct approach
+ in conceptualizing learning, i.e., to describe what they think occurs during
+ a learning episode, based on their observation and experience or based
+ on current literature on teaching and learning.
+\end_layout
+
+\begin_layout Enumerate
+Conceptualization of teaching
+\begin_inset Newline newline
+\end_inset
+
+Ask yourself questions such as “What do we mean by teaching?” and “How do
+ I facilitate this process as a teacher?” Chism suggests that personal teaching
+ beliefs on how the instructor facilitates the learning process would be
+ appropriate for this section.
+ Again, the metaphor format can be used, but a common practice is a more
+ direct description of the nature of a teacher with respect to motivating
+ and facilitating learning.
+ Along with the questions above, you may also address such issues as how
+ to challenge students intellectually and support them academically and
+ how the teacher can respond to different learning styles, help students
+ who are frustrated, and accommodate different abilities.
+ Furthermore, you may talk about how you as a teacher have come to these
+ conclusions (e.g., through past experience as a student or teacher, or as
+ a result of literature reading or taking classes).
+\end_layout
+
+\begin_layout Enumerate
+Goals for students
+\begin_inset Newline newline
+\end_inset
+
+This section should entail the description of what skills the teacher expects
+ her/his students to obtain as the result of learning.
+ You may address such issues as what goals you set for your classes, what
+ the rationale behind them is, what kind of activities you try to implement
+ in class in order to reach these goals, and how the goals have changed
+ over time as you learn more about teaching and learning.
+ For instance, you can describe how you have expected students to learn
+ not only the content, but also skills such as critical thinking, writing,
+ and problem solving, followed by elaboration on how you have designed/planned
+ individual sessions towards accomplishing the goals.
+\end_layout
+
+\begin_layout Enumerate
+Implementation of the philosophy
+\begin_inset Newline newline
+\end_inset
+
+An important component of the statement of a teaching philosophy should
+ be the illustration of how one’s concepts about teaching and learning and
+ goals for students are transformed into classroom activities.
+ Ask yourself, “How do I operationalize my philosophy of teaching in the
+ classroom?” and “What personal characteristics in myself or my students
+ influence the way in which I approach teaching?” To answer these questions,
+ you may reflect on how you present yourself and course materials, what
+ activities, assignments, and projects you implement in the teaching-learning
+ process, how you interact with students in and outside class, and the consequen
+ces.
+\end_layout
+
+\begin_layout Enumerate
+Professional growth plan
+\begin_inset Newline newline
+\end_inset
+
+It is important for teachers to continue professional growth, and to do
+ so, teachers need to set clear goals and means to accomplish these goals.
+ Think about questions such as “What goals have I set for myself as a teacher?”
+ and “How do I accomplish these goals?” You can elaborate this plan in your
+ statement of teaching philosophy.
+ For instance, you can illustrate how you have professionally grown over
+ the years, what challenges exist at the present, what long-term development
+ goals you have projected, and what you will do to reach these goals.
+ Chism suggests that writing this section can help you think about how your
+ perspectives and actions have changed over time.
+\end_layout
+
+\begin_layout Plain Layout
+In summary, these are the main questions Chism suggests to answer in a statement
+:
+\end_layout
+
+\begin_layout Itemize
+How do people learn?
+\end_layout
+
+\begin_layout Itemize
+How do I facilitate that learning?
+\end_layout
+
+\begin_layout Itemize
+What goals do I have for my students?
+\end_layout
+
+\begin_layout Itemize
+Why do I teach the way that I do?
+\end_layout
+
+\begin_layout Itemize
+What do I do to implement these ideas about teaching and learning in the
+ classroom?
+\end_layout
+
+\begin_layout Itemize
+Are these things working?
+\end_layout
+
+\begin_layout Itemize
+Do my student meet the goals?
+\end_layout
+
+\begin_layout Itemize
+How do I know they are working?
+\end_layout
+
+\begin_layout Itemize
+What are my future goals for growth as a teacher? 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The dual relationship between teachers and students are subtle: by clarifying
+ the concept of teaching and learning, we can see that the two parts are
+ actually  two sides of the same coin.
+\end_layout
+
+\begin_layout Standard
+Learning, for the students, is a process to enlarge the existing circle
+ of knowledge and a way to absorb new schema.
+ Basically, the relation between knowledge and schema is just like variable
+ and functions: knowledge is much more substaintial and easier to describe
+ than schema.
+ Students can recite every word on the book by spending a little effort,
+ but it is far demanding to fully understand the reason and motive throughout
+ the whole book.
+\end_layout
+
+\begin_layout Standard
+Likewise, teaching is a dual process where teachers try to convey the schema
+ based on knowledge written in books.
+ For example, teachers should use various examples and plots to convince
+ students that the multiplication rule for matrix can be viewed as a linear
+ transform, rather than forcing them only to memorize the rules of calculation.
+\end_layout
+
+\begin_layout Standard
+It is important that students should engage themselves into the course and
+ know what exactly they are learning.
+ As mentioned before, many students forget everything after the final exam
+ because the terms they have just memorized does not fit into their existing
+ framework.
+ So, they are expected to actively link the new knowledge to their own 
+\begin_inset Quotes eld
+\end_inset
+
+database
+\begin_inset Quotes erd
+\end_inset
+
+ and find out what may be the difference; the teachers can thus help during
+ the process.
+\end_layout
+
+\begin_layout Standard
+Although currently I do not hold discussion sections, I am trying to put
+ my philosophy in my office hours.
+ When students ask about their problems, I will not deal with them directly
+ but choose a few similar questions instead.
+ I may listen to their mind process when solving the problem and seek for
+ the key part where they may be stuck.
+\end_layout
+
+\end_body
+\end_document
