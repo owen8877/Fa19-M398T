@@ -83,22 +83,25 @@
 \begin_body
 
 \begin_layout Title
+\paragraph_spacing double
 Teaching Philosophy
 \end_layout
 
 \begin_layout Author
+\paragraph_spacing double
 Ziheng Chen
 \end_layout
 
-\begin_layout Section*
-Draft
-\end_layout
-
 \begin_layout Standard
+\paragraph_spacing double
+
+\size large
 \begin_inset Note Comment
 status collapsed
 
 \begin_layout Enumerate
+
+\size large
 Conceptualization of learning
 \begin_inset Newline newline
 \end_inset
@@ -117,6 +120,8 @@ Ask yourself such questions as “What do we mean by learning?” and “What
 \end_layout
 
 \begin_layout Enumerate
+
+\size large
 Conceptualization of teaching
 \begin_inset Newline newline
 \end_inset
@@ -138,6 +143,8 @@ Ask yourself questions such as “What do we mean by teaching?” and “How do
 \end_layout
 
 \begin_layout Enumerate
+
+\size large
 Goals for students
 \begin_inset Newline newline
 \end_inset
@@ -155,6 +162,8 @@ This section should entail the description of what skills the teacher expects
 \end_layout
 
 \begin_layout Enumerate
+
+\size large
 Implementation of the philosophy
 \begin_inset Newline newline
 \end_inset
@@ -172,6 +181,8 @@ ces.
 \end_layout
 
 \begin_layout Enumerate
+
+\size large
 Professional growth plan
 \begin_inset Newline newline
 \end_inset
@@ -189,45 +200,65 @@ It is important for teachers to continue professional growth, and to do
 \end_layout
 
 \begin_layout Plain Layout
+
+\size large
 In summary, these are the main questions Chism suggests to answer in a statement
 :
 \end_layout
 
 \begin_layout Itemize
+
+\size large
 How do people learn?
 \end_layout
 
 \begin_layout Itemize
+
+\size large
 How do I facilitate that learning?
 \end_layout
 
 \begin_layout Itemize
+
+\size large
 What goals do I have for my students?
 \end_layout
 
 \begin_layout Itemize
+
+\size large
 Why do I teach the way that I do?
 \end_layout
 
 \begin_layout Itemize
+
+\size large
 What do I do to implement these ideas about teaching and learning in the
  classroom?
 \end_layout
 
 \begin_layout Itemize
+
+\size large
 Are these things working?
 \end_layout
 
 \begin_layout Itemize
+
+\size large
 Do my student meet the goals?
 \end_layout
 
 \begin_layout Itemize
+
+\size large
 How do I know they are working?
 \end_layout
 
 \begin_layout Itemize
-What are my future goals for growth as a teacher? 
+
+\size large
+What are my future goals for growth as a teacher?
 \end_layout
 
 \end_inset
@@ -236,23 +267,105 @@ What are my future goals for growth as a teacher?
 \end_layout
 
 \begin_layout Standard
-The dual relationship between teachers and students are subtle: by clarifying
- the concept of teaching and learning, we can see that the two parts are
- actually  two sides of the same coin.
+\paragraph_spacing double
+(Last revised: Dec 02 2019)
 \end_layout
 
 \begin_layout Standard
-Learning, for the students, is a process to enlarge the existing circle
- of knowledge and a way to absorb new schema.
- Basically, the relation between knowledge and schema is just like variable
- and functions: knowledge is much more substaintial and easier to describe
- than schema.
+\paragraph_spacing double
+The dual relationship between teachers and students is subtle: by clarifying
+ the concept of teaching and learning, we can see that the two parts are
+ two sides of the same coin.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+From the students' perspective, learning starts with absorbing knowledge.
+ Knowledge can be classified by their types of transformation: one type
+ is called the “crystal knowledge” and the other kind is the “fluid knowledge”.
+ The former deals with facts or conclusions drawn from facts and practice,
+ like the addition and multiplication table: they are stored inside our
+ brains and we can check them as references.
+ On the counter-part, “fluid knowledge” is more like a procedure to do,
+ operate and think, such as the skill to drive a car or cook a meal.
+ These two types of knowledge are the foundation of any higher-level abstraction
+ (such as schema), so we must ensure students have a good understanding
+ of them before we can proceed.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+I find that students often have a good start but go to the wrong answer
+ in the end: this is not due to their wrong understanding, but due to the
+ wrong memorization of the formula involved.
+ It may be true that they can't remember the formula correctly because they
+ don't understand them, but we may think twice before we emphasize on “understan
+ding”.
+ After all, human brains are not disks that record everything to bits; we
+ learn things by getting familiar with them and fit the underlying pattern.
+ For example, a random variable is a mapping from the event space to the
+ real numbers per se, but students can be at a loss staring at this definition.
+ Thus it is crucial to let them construct the mapping from “a pool of randomness
+” in substantial examples.
+ Another application of this is to use tree structures to represent conditional
+ probabilities.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+Based on the same reason, the way to ensure students grasp a certain technique
+ is to give moderate exercises.
+ To avoid boring and mechanical repetition, we can invent some other fun
+ ways, such as correct a sample homework with typical errors, have students
+ go in front of the blackboard and explain that to the whole class, etc.
+ During the process of practice, students will consolidate their understanding
+ and improving their skills, providing chances to step further.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+Nevertheless, for the students, learning is not only a process to enlarge
+ the existing circle of knowledge but also a way to absorb new schema.
+ The relation between knowledge and schema is just like variable and functions:
+ knowledge is much more substantial and easier to describe than schema.
  Students can recite every word on the book by spending a little effort,
  but it is far demanding to fully understand the reason and motive throughout
  the whole book.
+ It is surely harder as to why the axioms of probability space are built
+ in this certain way than to calculate one or two conditional expectations,
+ but it is still important for instructors and teaching assistants to try.
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
 Likewise, teaching is a dual process where teachers try to convey the schema
  based on knowledge written in books.
  For example, teachers should use various examples and plots to convince
@@ -261,30 +374,14 @@ Likewise, teaching is a dual process where teachers try to convey the schema
 \end_layout
 
 \begin_layout Standard
-It is important that students should engage themselves into the course and
- know what exactly they are learning.
+\paragraph_spacing double
+We must get students engaged in class and know what exactly they are learning.
  As mentioned before, many students forget everything after the final exam
  because the terms they have just memorized does not fit into their existing
  framework.
- So, they are expected to actively link the new knowledge to their own 
-\begin_inset Quotes eld
-\end_inset
-
-database
-\begin_inset Quotes erd
-\end_inset
-
- and find out what may be the difference; the teachers can thus help during
+ So, they are expected to actively link the new knowledge to their own “database
+” and find out what may be the difference; the teachers can thus help during
  the process.
-\end_layout
-
-\begin_layout Standard
-Although currently I do not hold discussion sections, I am trying to put
- my philosophy in my office hours.
- When students ask about their problems, I will not deal with them directly
- but choose a few similar questions instead.
- I may listen to their mind process when solving the problem and seek for
- the key part where they may be stuck.
 \end_layout
 
 \end_body

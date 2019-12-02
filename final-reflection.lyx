@@ -135,8 +135,12 @@ s.
 
 \begin_layout Standard
 \paragraph_spacing onehalf
-I also learned quite a lot from my cohorts.
- Jackson introduced the 
+I also learned quite a lot from my cohorts:
+\end_layout
+
+\begin_layout Itemize
+\paragraph_spacing onehalf
+Billy introduced the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144,8 +148,36 @@ calculus merry-go-around
 \begin_inset Quotes erd
 \end_inset
 
- which encouraged us to solve the problems on a relay basis......
-\begin_inset Newline newline
+ which encouraged us to solve the problems on a relay basis.
+ 
+\end_layout
+
+\begin_layout Itemize
+\paragraph_spacing onehalf
+Hunter raised an interesting question of how (not) to put three curve-sided
+ triangle into a square, which has the same area as three times the 
+\begin_inset Quotes eld
+\end_inset
+
+triangles
+\begin_inset Quotes erd
+\end_inset
+
+.
+ It is a quite fundamental question hitting the base of modern calculus
+ and students should propose their own understanding on it.
+\end_layout
+
+\begin_layout Itemize
+\paragraph_spacing onehalf
+One presentation given by Will was about convergence of series and the integral
+ test is really crucial since there is an important counter-example of the
+ 
+\begin_inset Formula $\mathcal{O}\left(n^{-s}\right)$
+\end_inset
+
+ criterion.
+\begin_inset VSpace medskip
 \end_inset
 
 
@@ -170,7 +202,20 @@ ion :D).
  the middle-lower part get engaged and improved.
  I have included some of my ideas in the diversity and inclusivity statement
  but I need to try them out next semester to see if they can come into effect.
-\begin_inset Newline newline
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+\begin_inset VSpace medskip
+\end_inset
+
+I also like the LEGO task – describing how to construct the parts only by
+ words without any drawn illustrations.
+ I was totally surprised by all the possibilities that could happen between
+ the words of instructions and it reveals how differently people can think
+ in their own minds.
+ 
+\begin_inset VSpace medskip
 \end_inset
 
 
